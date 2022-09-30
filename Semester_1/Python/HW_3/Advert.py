@@ -61,4 +61,3 @@ class Advert(ColorizeMixin):
         if price < 0:
             raise ValueError(': must be >= 0')
         self._price = price
-        pass
