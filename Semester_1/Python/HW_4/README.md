@@ -1,7 +1,9 @@
 # Homework 4
 Для начала работы с данной директорией предполагается, что рабочей директорией является [HW_4](https://github.com/ArtemevIvanAlekseevich/Academy_analitics_Avito/tree/Flow/Semester_1/Python/HW_4). Во всех тестах присутствует флаг ```-v``` или его аналоги (это про непосредственно в коде ```verbose=True``` у ```doctest ``` и ```verbosity=2``` у ```unittest ```) для предоставления более детального отчета. Все тесты и результаты их выполнения находятся в папках, соответствующих их номеру. Команды для запуска из терминала реализуют запись результата выволнения программы в result.txt.
 ___
-##[issue-01](https://github.com/ArtemevIvanAlekseevich/Academy_analitics_Avito/tree/Flow/Semester_1/Python/HW_4/issue-01_doctest)
+
+[issue-01](https://github.com/ArtemevIvanAlekseevich/Academy_analitics_Avito/tree/Flow/Semester_1/Python/HW_4/issue-01_doctest)
+---
 
 Запуск [теста doctest_morse.py](https://github.com/ArtemevIvanAlekseevich/Academy_analitics_Avito/blob/Flow/Semester_1/Python/HW_4/issue-01_doctest/doctest_morse.py) в терминале 
 ```
@@ -16,7 +18,8 @@ if __name__ == '__main__':
 ```
 [Результат работы теста](https://github.com/ArtemevIvanAlekseevich/Academy_analitics_Avito/blob/Flow/Semester_1/Python/HW_4/issue-01_doctest/result.txt)
 
-####[issue-02](https://github.com/ArtemevIvanAlekseevich/Academy_analitics_Avito/tree/Flow/Semester_1/Python/HW_4/issue-02_parametrize)
+[issue-02](https://github.com/ArtemevIvanAlekseevich/Academy_analitics_Avito/tree/Flow/Semester_1/Python/HW_4/issue-02_parametrize)
+---
 
 Запуск [теста test_parametrize_morse.py](https://github.com/ArtemevIvanAlekseevich/Academy_analitics_Avito/blob/Flow/Semester_1/Python/HW_4/issue-02_parametrize/test_parametrize_morse.py) в терминале
 ```
@@ -30,7 +33,8 @@ if __name__ == '__main__':
 ```
 [Результат работы теста](https://github.com/ArtemevIvanAlekseevich/Academy_analitics_Avito/blob/Flow/Semester_1/Python/HW_4/issue-02_parametrize/result.txt)
 
-####[issue-03](https://github.com/ArtemevIvanAlekseevich/Academy_analitics_Avito/tree/Flow/Semester_1/Python/HW_4/issue-03_unittest)
+[issue-03](https://github.com/ArtemevIvanAlekseevich/Academy_analitics_Avito/tree/Flow/Semester_1/Python/HW_4/issue-03_unittest)
+---
 
 Запуск [теста test_unittest_one_hot_encoder.py](https://github.com/ArtemevIvanAlekseevich/Academy_analitics_Avito/blob/Flow/Semester_1/Python/HW_4/issue-03_unittest/test_unittest_one_hot_encoder.py) в терминале
 ```
@@ -44,7 +48,8 @@ if __name__ == '__main__':
 ```
 [Результат работы теста](https://github.com/ArtemevIvanAlekseevich/Academy_analitics_Avito/blob/Flow/Semester_1/Python/HW_4/issue-03_unittest/result.txt)
 
-####[issue-04](https://github.com/ArtemevIvanAlekseevich/Academy_analitics_Avito/tree/Flow/Semester_1/Python/HW_4/issue-04_pytest)
+[issue-04](https://github.com/ArtemevIvanAlekseevich/Academy_analitics_Avito/tree/Flow/Semester_1/Python/HW_4/issue-04_pytest)
+---
 
 Запуск [теста test_pytest_one_hot_encoder.py](https://github.com/ArtemevIvanAlekseevich/Academy_analitics_Avito/blob/Flow/Semester_1/Python/HW_4/issue-04_pytest/test_pytest_one_hot_encoder.py) в терминале
 ```
@@ -58,7 +63,8 @@ if __name__ == '__main__':
 ```
 [Результат работы теста](https://github.com/ArtemevIvanAlekseevich/Academy_analitics_Avito/blob/Flow/Semester_1/Python/HW_4/issue-04_pytest/result.txt)
 
-####[issue-05](https://github.com/ArtemevIvanAlekseevich/Academy_analitics_Avito/tree/Flow/Semester_1/Python/HW_4/issue-05)
+[issue-05](https://github.com/ArtemevIvanAlekseevich/Academy_analitics_Avito/tree/Flow/Semester_1/Python/HW_4/issue-05)
+---
 
 Запуск [теста test_what_is_year_now.py](https://github.com/ArtemevIvanAlekseevich/Academy_analitics_Avito/blob/Flow/Semester_1/Python/HW_4/issue-05/test_what_is_year_now.py) в терминале
 ```
